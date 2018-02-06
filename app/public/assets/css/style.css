@@ -1,0 +1,136 @@
+body {
+	background-image: url(../img/friends.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	margin: auto;
+}
+
+
+.container {
+ 	position: relative;
+    width: 1025px;
+    margin-top: 105px;
+}
+
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	color:#fff;
+	font-size: 70px;
+	text-align: center;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	color:#fff;
+	font-size: 24px;
+	text-align: center;
+}
+
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 20px;
+  padding: 10px 16px;
+  width: 175px;
+  margin-left: 420px;
+  margin-right: 345px;
+  content: center;
+}
+
+.btn2 {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 20px;
+  padding: 10px 16px;
+  width: 175px;
+  margin-left: 7px;
+  margin-right: 7px;
+  content: center;
+}
+  
+.btn-lg {
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 24px;
+  position: center;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #FF3364;
+  border-color: #FF3364;
+}
+
+h4 {
+	font-family: 'Roboto', sans-serif;
+	color: #0E0E0E;  
+	font-weight: bold;
+
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+	font-size: 30px;
+}
+
+h5 {
+	font-family: 'Roboto', sans-serif;
+}
+
+.form-group {
+	font-family: 'Roboto', sans-serif;
+	color: #0E0E0E; 
+	font-weight: bold;
+}
+
+.form-control {
+	font-family: 'Roboto', sans-serif;
+	color: #0E0E0E; 
+	font-weight: bold; 
+}
+
+.footer {
+	/*position: fixed;*/
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+	font-size: 10px;
+}
+
+.main-section {
+	border: 1px solid #ddd;
+	padding: 30px;
+	margin: 0 0 40px;
+	margin-left: 40px;
+	background:rgb(0,0,0, 0.8);
+	/*opacity: 0.5; FIGURE THIS OUT!
+	/*background:rgb(255,255,255,0.8);
+    /*filter: alpha(opacity=50);*/
+}
